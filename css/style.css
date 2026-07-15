@@ -29,7 +29,7 @@ body {
 #cec-chatbot-container {
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    right: 100px;
     z-index: 1000;
 }
 
@@ -74,7 +74,7 @@ body {
 
     .cec-chat-toggle-button {
         bottom: 10px !important;
-        right: 10px !important;
+        right: 30px !important;
     }
 }
 
